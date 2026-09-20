@@ -1,6 +1,6 @@
 # 🦠 COVID-19 Global Data Analysis
 
-An exploratory data analysis (EDA) of the global COVID-19 pandemic using the [Our World in Data](https://ourworldindata.org/coronavirus) dataset — covering data cleaning, trend analysis, country comparisons, correlation analysis, and interactive choropleth maps.
+An exploratory data analysis (EDA) of the global COVID-19 pandemic using the [Our World in Data](https://ourworldindata.org/coronavirus) dataset covering data cleaning, trend analysis, country comparisons, correlation analysis, and interactive choropleth maps.
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -19,7 +19,7 @@ The notebook walks through a complete analysis pipeline:
 ## 🔑 Key Insights
 
 - Case totals are heavily concentrated in a handful of highly populous countries (US, India, Brazil), with total cases strongly correlated with population size rather than being a pure measure of outbreak severity.
-- Global new deaths peaked in mid-April 2020 and declined afterward even as new cases kept climbing through the following months — consistent with expanded testing and improved treatment over time.
+- Global new deaths peaked in mid-April 2020 and declined afterward even as new cases kept climbing through the following months consistent with expanded testing and improved treatment over time.
 - `total_deaths` and `total_cases` are very strongly correlated, as expected.
 
 ## 📁 Dataset
