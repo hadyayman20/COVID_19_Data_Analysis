@@ -24,7 +24,7 @@ The notebook walks through a complete analysis pipeline:
 
 ## 📁 Dataset
 
-This project uses the **Our World in Data COVID-19 dataset** (`owid-covid-data.csv`), included in this repo. It's a snapshot of the OWID data; the latest version is always available at [covid.ourworldindata.org/data/owid-covid-data.csv](https://covid.ourworldindata.org/data/owid-covid-data.csv).
+This project uses the **Our World in Data COVID-19 dataset** (`owid-covid-data.csv`), included in this repo. It's a snapshot of the OWID data.
 
 ## 🚀 Getting Started
 
