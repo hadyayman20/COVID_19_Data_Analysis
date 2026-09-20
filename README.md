@@ -65,6 +65,3 @@ covid19-data-analysis/
 
 ## 📄 License
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-Data provided by [Our World in Data](https://ourworldindata.org/coronavirus), based on official sources including the WHO and Johns Hopkins CSSE.
